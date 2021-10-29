@@ -50,6 +50,12 @@ This is the same solution as in the accepted answer. When answering older questi
 When asking a question, people will be better able to provide help if you provide code that they can easily understand and use to reproduce the problem. This is referred to by community members as creating a [minimal, reproducible example](https://stackoverflow.com/help/minimal-reproducible-example).
 ```
 
+## Non-English content
+
+```
+Stack Overflow requires content [to be in English](https://meta.stackoverflow.com/questions/297673/how-do-i-deal-with-non-english-content). See [here](https://meta.stackexchange.com/questions/13676/do-posts-have-to-be-in-english-on-stack-exchange/13684#13684) also. There are also other non-English versions of Stack Overflow that have dedicated sites: [pt](https://pt.stackoverflow.com/), [ja](https://ja.stackoverflow.com/), [ru](https://ru.stackoverflow.com/) and [es](https://es.stackoverflow.com/).
+```
+
 # links
 
 ## Advising on off-topic questions
