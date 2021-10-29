@@ -38,6 +38,18 @@ Please share any relevant code in the Question, as a [minimal, workable example 
 Great work solving your own issue! You are [encouraged to answer your own question](https://stackoverflow.com/help/self-answer) so that it can serve as documentation for anyone else that has the same issue in the future. 48 hours  after posting you will be able to [accept your own answer](https://stackoverflow.blog/2009/01/06/accept-your-own-answers/).
 ```
 
+## Same as accepted answer
+
+```
+This is the same solution as in the accepted answer. When answering older questions that already have answers, please make sure you provide either a novel solution or a significantly better explanation than existing answers.
+```
+
+## Minimal, reproducible example
+
+```
+When asking a question, people will be better able to provide help if you provide code that they can easily understand and use to reproduce the problem. This is referred to by community members as creating a [minimal, reproducible example](https://stackoverflow.com/help/minimal-reproducible-example).
+```
+
 # links
 
 ## Advising on off-topic questions
