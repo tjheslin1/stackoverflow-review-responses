@@ -23,7 +23,7 @@ or [AskUbuntu](https://askubuntu.com/).
 ## Code in screenshot
 
 ```
-Please share any relevant code by editing your Question - [instead of a screenshot](https://meta.stackoverflow.com/questions/285551/why-not-upload-images-of-code-errors-when-asking-a-question). Fewer people are likely to reproduce your issue without having your code in a copyable form.
+Please share any relevant code [instead of a screenshot](https://meta.stackoverflow.com/questions/285551/why-not-upload-images-of-code-errors-when-asking-a-question) by editing your Question. Fewer people are likely to reproduce your issue without having your code in a copyable form.
 ```
 
 ## Code in link
