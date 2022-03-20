@@ -32,6 +32,12 @@ Please share any relevant code [instead of a screenshot](https://meta.stackoverf
 Please share any relevant code in the Question, as a [minimal, workable example (mwe)](https://stackoverflow.com/help/minimal-reproducible-example). Not all users will click on links and therefore won't be able to help reproduce, and solve, your issue.
 ```
 
+## Link only answers
+
+```
+While this link may answer the question, it is better to include the essential parts of the answer here and provide the link for reference. Link-only answers can become invalid if the linked page changes.
+```
+
 ## Answered own question
 
 ```
