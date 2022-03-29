@@ -50,6 +50,12 @@ Great work solving your own issue! You are [encouraged to answer your own questi
 This is the same solution as in the accepted answer. When answering older questions that already have answers, please make sure you provide either a novel solution or a significantly better explanation than existing answers.
 ```
 
+## Answer already provided
+
+```
+This is a duplicate of an of existing answer. When answering older questions that already have answers, please make sure you provide either a novel solution or a significantly better explanation than existing answers.
+```
+
 ## Minimal, reproducible example
 
 ```
