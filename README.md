@@ -47,7 +47,7 @@ Great work solving your own issue! You are [encouraged to answer your own questi
 ## Same as accepted answer
 
 ```
-This is the same solution as in the accepted answer. When answering older questions that already have answers, please make sure you provide either a novel solution or a significantly better explanation than existing answers.
+This is the same solution as in the accepted answer. When answering older questions that already have answers, please make sure you provide either a novel solution or a significantly better explanation than existing answers. Remember to review all existing answers first.
 ```
 
 ## Answer already provided
