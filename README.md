@@ -56,6 +56,12 @@ This is the same solution as in the accepted answer. When answering older questi
 This is a duplicate of an of existing answer. When answering older questions that already have answers, please make sure you provide either a novel solution or a significantly better explanation than existing answers. Remember to review all existing answers first.
 ```
 
+## Not an answer; asking a similar question
+
+```
+Your post is not an Answer to this question, though this question may be relevant. For help with your problem please [ask a new question](https://stackoverflow.com/help/how-to-ask), giving as much detail as possible with [minimal code required to reproduce the problem](https://stackoverflow.com/help/minimal-reproducible-example).
+```
+
 ## Minimal, reproducible example
 
 ```
