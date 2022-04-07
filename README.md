@@ -44,6 +44,12 @@ While this link may answer the question, it is better to include the essential p
 While this code may answer the question, it would aid your answer to include a description of what this code is doing to answer the Question.
 ```
 
+## Tool recommendaton only
+
+```
+Please don't just post some tool or library as an answer. At least demonstrate [how it solves the problem](https://meta.stackoverflow.com/questions/251602/recommending-off-site-resources-when-questions-dont-ask-for-it/251605#251605) in the answer itself.
+```
+
 ## Answered own question
 
 ```
