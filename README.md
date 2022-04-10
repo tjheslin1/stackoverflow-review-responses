@@ -47,7 +47,7 @@ While this code may answer the question, it would aid your answer to include a d
 ## Tool recommendaton only
 
 ```
-Please don't just post some tool or library as an answer. At least demonstrate [how it solves the problem](https://meta.stackoverflow.com/questions/251602/recommending-off-site-resources-when-questions-dont-ask-for-it/251605#251605) in the answer itself.
+Please include a demonstration as to [how this tool solves the problem](https://meta.stackoverflow.com/questions/251602/recommending-off-site-resources-when-questions-dont-ask-for-it/251605#251605) as part of your answer.
 ```
 
 ## Answered own question
