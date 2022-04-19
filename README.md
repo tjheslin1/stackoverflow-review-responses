@@ -71,7 +71,7 @@ This is a duplicate of an of existing answer. When answering older questions tha
 ## Not an answer; asking a similar question
 
 ```
-Your post is not an Answer to this question, though this question may be relevant. For help with your problem please [ask a new question](https://stackoverflow.com/help/how-to-ask), giving as much detail as possible with [minimal code required to reproduce the problem](https://stackoverflow.com/help/minimal-reproducible-example).
+Your post is not an Answer to this question, though this question may be relevant. If you are having a separate, unique problem please [ask a new question](https://stackoverflow.com/help/how-to-ask), giving as much detail as possible with [minimal code required to reproduce the problem](https://stackoverflow.com/help/minimal-reproducible-example). If you are having the same issue as detailed in this question you can raise attention to it by [up-voting the question](https://stackoverflow.com/help/why-vote) and possibly [adding a bounty](https://stackoverflow.com/help/bounty) to the question.
 ```
 
 ## Minimal, reproducible example
